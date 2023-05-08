@@ -1,0 +1,25 @@
+Sorted by weight: 
+Scientific Name: Felis margarita
+Common Name: Sand Cat
+Average Weight: 4
+Average Lifespan: 13
+Diet: Carnivore
+Habitat: Desert
+Conservation status: Least Concern
+
+Scientific Name: Canis lupus
+Common Name: Gray Wolf
+Average Weight: 40
+Average Lifespan: 13
+Diet: Carnivore
+Habitat: Forest
+Conservation status: Least Concern
+
+Scientific Name: Pan troglodytes
+Common Name: Chimpanzee
+Average Weight: 100
+Average Lifespan: 40
+Diet: Omnivore
+Habitat: Forest
+Conservation status: Near Threatened
+
